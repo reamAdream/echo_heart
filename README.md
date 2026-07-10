@@ -19,7 +19,7 @@
 ## 🔧 Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-repo/Echo-Heart.git
+git clone https://github.com/reamAdream/echo_heart
 
 # Установка зависимостей
 pip install -r requirements.txt
